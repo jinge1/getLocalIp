@@ -1,0 +1,22 @@
+{
+  "name": "os-ip",
+  "version": "1.0.0",
+  "description": "获取本地主机ip地址，兼容windows及Unix",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinge1/getLocalIp.git"
+  },
+  "keywords": [
+    "获取本地主机ip地址"
+  ],
+  "author": "jinge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinge1/getLocalIp/issues"
+  },
+  "homepage": "https://github.com/jinge1/getLocalIp#readme"
+}
